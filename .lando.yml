@@ -1,0 +1,4 @@
+name: phpcs-test
+recipe: lemp
+config:
+  webroot: .

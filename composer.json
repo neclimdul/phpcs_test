@@ -1,0 +1,15 @@
+{
+    "name": "neclimdul/phpcs-test",
+    "type": "project",
+    "require": {
+        "squizlabs/php_codesniffer": "^2.9",
+        "drupal/coder": "^8.2.12"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Gilliland",
+            "email": "neclimdul@gmail.com"
+        }
+    ]
+}
